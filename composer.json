@@ -1,0 +1,14 @@
+{
+    "name": "bradInside/konami-jss",
+    "description": "konami code detection",
+    "homepage": "https://github.com/snaptortoise/konami-js",
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "OAuth": "src/"
+        }
+    }
+}
