@@ -1,15 +1,15 @@
 {
-    "name": "bradInside/konami-jss",
-    "description": "konami code detection",
-    "homepage": "https://github.com/snaptortoise/konami-js",
-    "minimum-stability": "dev",
+    "name": "bradInside/jQuery-rwdImageMaps",
+    "description": "responsive images map",
+    "homepage": "https://github.com/stowball/jQuery-rwdImageMaps",
     "license": "MIT",
     "authors": [
         {
             "name": "Matt Stow",
             "homepage": "https://github.com/stowball/jQuery-rwdImageMaps"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
     "require": {
 
     },
