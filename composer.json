@@ -4,6 +4,12 @@
     "homepage": "https://github.com/snaptortoise/konami-js",
     "minimum-stability": "dev",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Matt Stow",
+            "homepage": "https://github.com/stowball/jQuery-rwdImageMaps"
+        }
+    ]
     "require": {
 
     },
