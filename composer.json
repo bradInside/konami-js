@@ -3,6 +3,7 @@
     "description": "konami code detection",
     "homepage": "https://github.com/snaptortoise/konami-js",
     "minimum-stability": "dev",
+    "license": "MIT",
     "require": {
 
     },
